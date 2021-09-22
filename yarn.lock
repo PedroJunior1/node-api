@@ -2,12 +2,22 @@
 # yarn lockfile v1
 
 
-"@types/node@^16.9.2":
-  version "16.9.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.2.tgz#81f5a039d6ed1941f8cc57506c74e7c2b8fc64b9"
-  integrity sha512-ZHty/hKoOLZvSz6BtP1g7tc7nUeJhoCf3flLjh8ZEv1vFKBWHXcnMbJMyN/pftSljNyy0kNW/UqI3DccnBnZ8w==
+"@types/module-alias@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@types/module-alias/-/module-alias-2.0.1.tgz#e5893236ce922152d57c5f3f978f764f4deeb45f"
+  integrity sha512-DN/CCT1HQG6HquBNJdLkvV+4v5l/oEuwOHUPLxI+Eub0NED+lk0YUfba04WGH90EINiUrNgClkNnwGmbICeWMQ==
 
-typescipt@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/typescipt/-/typescipt-1.0.0.tgz#bbe7ca742d5e6fc2e3e44ad10d461fe59211f6a5"
-  integrity sha512-Rgg7DtWh0c0oJPz2p48B0hlINIkE5zxU5i+dGctkoiKjIu6twl0HXWzoy+mvp9bQfLJGx70zYuN6GK0S/x5Kxw==
+"@types/node@^16.9.2":
+  version "16.9.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.9.6.tgz#040a64d7faf9e5d9e940357125f0963012e66f04"
+  integrity sha512-YHUZhBOMTM3mjFkXVcK+WwAcYmyhe1wL4lfqNtzI0b3qAy7yuSetnM7QJazgE5PFmgVTNGiLOgRFfJMqW7XpSQ==
+
+module-alias@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/module-alias/-/module-alias-2.2.2.tgz#151cdcecc24e25739ff0aa6e51e1c5716974c0e0"
+  integrity sha512-A/78XjoX2EmNvppVWEhM2oGk3x4lLxnkEA4jTbaK97QKSDjkIoOsKQlfylt/d3kKKi596Qy3NP5XrXJ6fZIC9Q==
+
+typescript@^4.4.3:
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.3.tgz#bdc5407caa2b109efd4f82fe130656f977a29324"
+  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
